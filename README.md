@@ -1,3 +1,3 @@
 # Borneo-Apotik
-Software Kasir untuk apotik. <br>
+Software Kasir Untuk Apotik. <br>
 Menggunakan Java Eclipse + PostgreeSQL.<br>
